@@ -1,0 +1,59 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore compiled files
+*.o
+*.out
+*.exe
+*.class
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore environment files
+.env
+.env.local
+
+# Ignore package manager files
+node_modules/
+vendor/
+__pycache__/
+
+# Ignore IDE/editor specific files
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Ignore documentation builds
+docs/_build/
+docs/html/
+docs/.doctrees/
+
+# Ignore any files related to testing or coverage
+coverage/
+*.cover
+*.cov
+*.egg-info/
+
+# Ignore binary files
+*.bin
+*.exe
+
+# Ignore cache files
+.cache/
+.cache/
+*.pyc
+*.pyo
+
+# Ignore local configuration files
+config/local.yml
+config/*.local.yml
