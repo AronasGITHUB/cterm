@@ -1,6 +1,6 @@
 # cterm
 
-cterm is a more beautiful version of the terminal. it is a modernized and highly customizable terminal.
+cterm is a more beautiful version of the terminal. it is a modernized and highly customizable terminal. \
 cterm is not a terminal emulator, cterm is not a shell.
 
 # 📘 documentation
